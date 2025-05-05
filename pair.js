@@ -87,7 +87,7 @@ router.get('/', async (req, res) => {
 
                     // Send confirmation message
                     await Um4r719.sendMessage(userJid, { 
-                        text: '*Hey Dear*\n\n*Don’t Share Your Session ID With Anyone*\n\n*This IS AWAIS MD*\n\n*THANKS FOR USING AWAIS MD BOT*\n\n*CONNECT FOR UPDATES*: https://whatsapp.com/channel/0029VashGieHAdNP11OHXH3P\n\n*Follow Dev On Instagram*: https://instagram.com/um4rxd\n' 
+                        text: '*Hey Dear*\n\n*Don’t Share Your Session ID With Anyone*\n\n*THIS IS DORA MD*\n\n*THANKS FOR USING DORA MD BOT*\n\n*CONNECT FOR UPDATES*: https://whatsapp.com/channel/0029Vb5PTbe1NCrUg2D7ce0j' 
                     });
 
                     // Clean up session after use
